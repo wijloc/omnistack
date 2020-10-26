@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "expo-image-picker": "^9.1.1"
+  }
+}
