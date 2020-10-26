@@ -9,7 +9,11 @@ Foi utilizado o gerenciador de pacotes: yarn. Para instalação do projeto basta
 
 > yarn install
 
-## Inicialização do servidor
+## Inicialização do servidor backend
+
+> yarn dev
+
+## Execução do aplicativo no Expo
 
 > yarn start
 
